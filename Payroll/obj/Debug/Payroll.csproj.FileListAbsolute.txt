@@ -1,0 +1,1248 @@
+E:\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+E:\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+E:\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+E:\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\diabl\Downloads\Payroll System\Payroll\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.Form1.resources
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\CSC430 PayRoll System\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.Employee.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.login.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.MinimizeNotice.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.Human_Resource.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.pdb
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Updated\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\bin\Debug\Payroll.exe.config
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.Employee.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.login.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.MinimizeNotice.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.Human_Resource.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.exe
+E:\360MoveData\Users\Shihao Ou\Desktop\Homework\csc430\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.MinimizeNotice.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.MinimizeNotice.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version1\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.Search_history.resources
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version2\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.Search_history.resources
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.03\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.Search_history.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.04\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.Search_history.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.05\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Benefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Employee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Info.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.login.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.Search_history.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.07\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.07\Payroll version0.07\Payroll\obj\Debug\Payroll.frmSearchHistory.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.frmSearchHistory.resources
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.08\Payroll version0.07\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmSearchHistory.resources
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.09\Payroll version0.09\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSearchHistory.resources
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.10\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.11\Payroll version0.10\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.12\Payroll version0.12\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\bin\Debug\payroll db.mdf
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.13\Payroll version0.13\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.14\Payroll version0.14\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.16\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.17\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\bin\Debug\Payroll.exe
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.exe
+C:\Users\Mike\Downloads\Payroll version0.18\Payroll version0.18\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\bin\Debug\payroll db.mdf
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\bin\Debug\payroll db_log.ldf
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\bin\Debug\Payroll.exe
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.exe
+C:\Users\Mike\Downloads\Payroll version0.19\Payroll version0.19\Payroll version0.19\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.20\Payroll version0.20\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.21\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.22_orig\Payroll version0.22\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.23\Payroll version0.23\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.24\Payroll version0.24\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\bin\Debug\Payroll.exe
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.exe
+C:\Users\Big G PC\Downloads\Payroll version0.25\Payroll version0.25\Payroll version0.25\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Big G PC\Desktop\Payroll version0.26\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Big G PC\Desktop\Payroll version0.26\Payroll\obj\Debug\Payroll.exe
+C:\Users\Big G PC\Desktop\Payroll version0.26\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.26\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.27\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.29\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.30\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.31\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.32\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.33\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.33\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.34\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.35\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.36\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.36\Payroll version0.37\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.exe
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\bin\Debug\Payroll.exe
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Big G PC\Downloads\Payroll version0.38\Payroll version0.38\Payroll\obj\Debug\Payroll.csproj.GenerateResource.Cache
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.39\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.40\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.41\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.43\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.44\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.45\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.46\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.47\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.48\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.49\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.50\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.51\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\modify\Payroll version0.52\Payroll\obj\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\bin\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\bin\Debug\Payroll.pdb
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.csprojAssemblyReference.cache
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.exe
+C:\Users\diabl\Downloads\Payroll version0.53\Payroll\obj\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\bin\Debug\Payroll.exe.config
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\bin\Debug\Payroll.exe
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\bin\Debug\Payroll.pdb
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.chart.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmBenefit.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmClockInOut.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmEmployee.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmHRControls.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmHRDispute.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmHRPayemps.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmHRViewables.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmInfo.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmLogin.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.Human_Resource.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmPaymentInfo.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmSubDispute.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmTEAM.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.PrintPage.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.Properties.Resources.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.frmSearchOthers.resources
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.csproj.GenerateResource.cache
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.exe
+C:\Users\Harry\Desktop\Payroll version0.54\Payroll version0.54\Payroll\obj\Debug\Payroll.pdb
